@@ -1,0 +1,19 @@
+.list {
+  background: #fff;
+}
+.list .list-item {
+  padding: 1rem;
+  border-bottom: 1px solid #f0f0f0;
+}
+.list a {
+  font-size: 1.5rem;
+}
+.list .img-wrapper {
+  margin-top: 1rem;
+}
+.list .img-wrapper img {
+  transition: all linear .5s;
+}
+.list .img-wrapper img:hover {
+  transform: scale(1.1);
+}
